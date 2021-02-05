@@ -22,7 +22,7 @@ def hammer(url, throws, verbose, hid):
     ''' Hammer specified url by making multiple throws (ie. HTTP requests).
 
     - url:      URL to request
-    - throws:   How many times to make the request
+    - throws:   How many times to make the request 
     - verbose:  Whether or not to display the text of the response
     - hid:      Unique hammer identifier
 
