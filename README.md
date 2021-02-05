@@ -46,3 +46,8 @@ c_server
       \_ lyrics.txt            # Example text document
       \_ song.txt              # Example text document
 </pre>
+
+---
+
+### Diagrams
+
