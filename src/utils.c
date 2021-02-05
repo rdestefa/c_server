@@ -31,6 +31,7 @@
  *
  * This function returns an allocated string that must be free'd.
  **/
+
 char * determine_mimetype(const char *path) {
     char *ext;
     char *mimetype;
