@@ -51,4 +51,10 @@ c_server
 
 ### Diagrams
 
+#### Server Workflow
+
+![image](https://user-images.githubusercontent.com/67760716/106998307-223aae80-6739-11eb-86f8-689a47459e54.png)
+
+#### File Structure
+
 ![image](https://user-images.githubusercontent.com/67760716/106998180-f1f31000-6738-11eb-921f-56482e5953fa.png)
