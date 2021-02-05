@@ -16,6 +16,7 @@
 /**
  * Concurrency modes
  */
+
 typedef enum {
     SINGLE,                             /**< Single connection */
     FORKING,                            /**< Process per connection */
